@@ -1,5 +1,4 @@
-# Tip-Calc-Lite
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calc Lite*
 
 **Tip Calc Lite** is a tip calculator application for iOS.
 
